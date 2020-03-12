@@ -45,7 +45,7 @@ A curated list of awesome Android libraries. Feel free to contrubute.
 - [Other](#other)
 - [About Me](#about-me)
 
-## Networking
+# Networking
 No. | Name | Description
 --- | --- | ---
 **01** | **[Retrofit](http://square.github.io/retrofit/)** | Type-safe HTTP client for Android and Java by Square, Inc.
